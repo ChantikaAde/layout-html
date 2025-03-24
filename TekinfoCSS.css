@@ -1,0 +1,35 @@
+body {
+	font-family: "Arial", sans-serif;
+}
+	.header{
+		background-color: Sienna; 
+		color: white;
+		text-align: center;
+		padding: 50px;
+		font-size: 1.5em;
+	}
+	.sidebar {
+		background-color: SlateBlue;
+		width: 20%;
+		height: 300px;
+		padding-left:20px;
+		padding-top:10px;
+		float: left;
+	}
+	.main {
+		background-color: white;
+		padding-left: 35px;
+		padding-top: 10px;
+		width: 70%;
+		height: 300px;
+		float: left;
+	}
+	.footer{
+		background-color:Sienna;
+		color: white;
+		width: 100%;
+		padding: 10px;
+		text-align: center;
+		float: left;
+		clear: both;
+	}
